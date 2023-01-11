@@ -1,4 +1,4 @@
-// listas dentro de lista
+// listas dentro de lista - matriz
 const alunos = ["Rodrigo", "Felipe", "Fernanda", "Yasmin"]
 const notas = [7, 8, 5.5, 10]
 
